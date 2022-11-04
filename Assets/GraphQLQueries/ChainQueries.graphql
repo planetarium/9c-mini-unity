@@ -1,0 +1,13 @@
+query GetBlockTip
+{
+    chainQuery
+    {
+        blockQuery
+        {
+            blocks(limit: 1, desc: true)
+            {
+                index
+            }
+        }
+    }
+}

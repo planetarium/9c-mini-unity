@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/SimpleGraphQL-For-Unity"]
+	path = Assets/Plugins/SimpleGraphQL-For-Unity
+	url = https://github.com/boscohyun/SimpleGraphQL-For-Unity

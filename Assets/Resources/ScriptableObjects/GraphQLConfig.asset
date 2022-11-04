@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7544f1907c44b1394f70c35d12caec5, type: 3}
+  m_Name: GraphQLConfig
+  m_EditorClassIdentifier: 
+  Endpoint: http://9c-main-rpc-99.nine-chronicles.com/graphql
+  Files:
+  - {fileID: -2997410325540601474, guid: 9cb91590d9af4e5f926bda00899804b1, type: 3}
+  - {fileID: -2997410325540601474, guid: 1a93d49105d7466584473ddff112f958, type: 3}
+  AuthScheme: Bearer
+  CustomHeaders: []
